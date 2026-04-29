@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 55.99,
+    "stock": 15,
+    "rating": 4.8,
+    "image": "https://example.com/keyboard.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 120.00,
+    "stock": 8,
+    "rating": 4.5,
+    "image": "https://example.com/headphones.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch Series 7",
+    "category": "Wearables",
+    "price": 199.50,
+    "stock": 25,
+    "rating": 4.7,
+    "image": "https://example.com/watch.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Portable Power Bank 20000mAh",
+    "category": "Gadgets",
+    "price": 35.00,
+    "stock": 50,
+    "rating": 4.3,
+    "image": "https://example.com/powerbank.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ergonomic Gaming Mouse",
+    "category": "Accessories",
+    "price": 25.40,
+    "stock": 12,
+    "rating": 4.6,
+    "image": "https://example.com/mouse.jpg"
+  }
+]
